@@ -50,15 +50,15 @@ Every message is given a four character code (B₁ + B₂ + B₃ + B₄). Each s
 
 Super niche, but in the vein of YaDDNet recording and decoding the DSC signals, there are enthusiasts who spend their free time listening out on MF and HF nets for communications, typically weather reports, and reporting on them as a hobby. As MF/HF communications are especially used by Russian naval vessels, it's a good method of tracking them. 
 
-te3ej - https://twitter.com/te3ej
-Olga Honcharenko - https://twitter.com/olga_pp98
-Twente313 - https://twitter.com/Twente313
-Gerry Agnew - https://twitter.com/gerryagnew30
-Geoff McMaw - https://twitter.com/geoff_mcmaw
-Roland - https://twitter.com/DF3LZ
-Latitude 67N SIGINT - https://twitter.com/Sigint67n
-Eddy Tanoca - https://twitter.com/EddyTanoca
-AvScanNZ - https://twitter.com/NZ_Trav
+- te3ej - https://twitter.com/te3ej
+- Olga Honcharenko - https://twitter.com/olga_pp98
+- Twente313 - https://twitter.com/Twente313
+- Gerry Agnew - https://twitter.com/gerryagnew30
+- Geoff McMaw - https://twitter.com/geoff_mcmaw
+- Roland - https://twitter.com/DF3LZ
+- Latitude 67N SIGINT - https://twitter.com/Sigint67n
+- Eddy Tanoca - https://twitter.com/EddyTanoca
+- AvScanNZ - https://twitter.com/NZ_Trav
 
 ### Ownership & Identity
 
