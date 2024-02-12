@@ -4,7 +4,7 @@ The goal of this repository is to collect code, tools and documentation on how t
 
 ## Global Fishing Watch
 
-A very useful source is [Global Fishing Watch](https://globalfishingwatch.org), an NGO/platform with AIS data, SAR imagery and information on vessel ownership and events (like loitering, encounters, port visits, AIS gaps). There are some helpful functions available in [gwf.py](src/gfw.py) to query the GFW API (documentation). You need to [get an API key](https://globalfishingwatch.org/our-apis/) and add that to an environment file (e.g. .env file in the root folder) in order for it to work. This code is work in progress and will - hopefully - result in a full-fledged Python library.
+A very useful source is [Global Fishing Watch](https://globalfishingwatch.org), an NGO/platform with AIS data, SAR imagery and information on vessel ownership and events (like loitering, encounters, port visits, AIS gaps). There are some helpful functions available in [gwf.py](src/gfw.py) to query the GFW API (documentation) and I have provided [an example notebook](notebooks/example.ipynb). You need to [get an API key](https://globalfishingwatch.org/our-apis/) and add that to an environment file (e.g. .env file in the root folder) in order for it to work. This code is work in progress and will - hopefully - result in a full-fledged Python library.
 
 There are a few functions available for now:
 1. get_vessels: finds vessels based on MMSI, name or IMO
